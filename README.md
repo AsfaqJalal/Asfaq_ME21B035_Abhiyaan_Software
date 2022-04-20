@@ -11,4 +11,4 @@ Why I want to work in the team: I was really fascinated on seeing the car on sig
 Relevant Courses: 
   In Insti: None
   Online: Coursera Andrew NG Machine Learning
-  
+ 
